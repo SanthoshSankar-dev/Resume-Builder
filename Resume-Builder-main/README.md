@@ -1,223 +1,141 @@
-# 🚀 AI Resume Builder  
-**✨ Build Professional, ATS-Optimized Resumes in Minutes**  
+# 🚀 AI Resume Builder
 
-A modern, responsive Resume Builder Web Application that empowers users to craft job-ready, professional resumes with live preview, beautiful templates, and seamless PDF export.  
+**✨ Build Professional, ATS-Friendly Resumes Easily**
 
-🔗 **GitHub Repository:** [https://github.com/AdithyaTB/Resume-Builder](https://github.com/AdithyaTB/Resume-Builder)
+A modern and responsive Resume Builder web application that helps users create professional resumes with live preview and PDF export.
 
----
+🔗 GitHub Repository:
+https://github.com/SanthoshSankar-dev/Resume-Builder
 
-## 🌟 Why This Project Stands Out  
-
-✅ Solves a real-world problem for students & job seekers  
-✅ Clean, modern UI/UX design  
-✅ Modular, scalable frontend architecture  
-✅ Strong portfolio & placement project  
-✅ Easily extendable with AI features & backend  
+🌐 Live Demo:
+[(Add your Vercel deployment link here)](https://resume-builder-2afmrgh9e-santhoshsankar-devs-projects.vercel.app/)
 
 ---
 
-## 🎯 Key Features  
+## 🌟 Project Highlights
 
-### 📝 Smart Resume Builder  
-- Step-by-step resume creation  
-- Clean and intuitive form flow  
-- No learning curve for users  
-
-### 👤 Resume Sections Supported  
-- Personal Information  
-- Professional Summary  
-- Education  
-- Skills  
-- Work Experience  
-- Projects  
-- Certifications & Achievements  
-
-### 🎨 Beautiful Resume Templates  
-- Minimal  
-- Professional  
-- Creative  
-- One-column & two-column layouts  
-
-### 👀 Live Resume Preview  
-- See changes instantly while typing  
-- WYSIWYG resume editing experience  
-
-### 📄 PDF Export  
-- Download resume as high-quality PDF  
-- Print-friendly formatting  
-
-### 📱 Fully Responsive  
-- Works perfectly on:  
-  - Desktop  
-  - Tablet  
-  - Mobile devices  
-
-### 🧠 Future-Ready Design  
-This project is designed to easily integrate:  
-🔐 User Authentication  
-🤖 AI Resume Suggestions  
-📊 ATS Resume Score  
-✉ Cover Letter Generator  
-🌍 Multi-language Support  
+✅ Responsive UI Design
+✅ Easy Resume Creation Workflow
+✅ Live Resume Preview
+✅ PDF Export Support
+✅ Built for Academic Learning and Portfolio Showcase
 
 ---
 
-## 🛠️ Tech Stack  
+## 🎯 Features
 
-### **Frontend**  
-- ⚛️ React.js  
-- ⚡ Vite  
-- 🎨 Tailwind CSS  
-- 🧭 React Router  
+### 📝 Resume Creation
 
-### **Tools & Utilities**  
-- npm  
-- Git & GitHub  
-- VS Code  
+* Enter resume details easily
+* Organized form structure
+* User-friendly experience
 
-### **Deployment (Optional)**  
-- Vercel / Netlify  
+### 👤 Resume Sections
 
----
+* Personal Information
+* Summary
+* Education
+* Skills
+* Projects
+* Experience
 
-## 🗂️ Project Structure  
+### 🎨 Templates
 
-```
-Resume-Builder/
-│
-├── public/
-│
-├── src/
-│   ├── components/      # Reusable UI components
-│   ├── pages/           # App pages
-│   ├── assets/          # Images & icons
-│   ├── styles/          # Global styles
-│   ├── App.jsx          # Root component
-│   └── main.jsx         # App entry point
-│
-├── index.html
-├── package.json
-├── tailwind.config.js
-└── README.md
-```
+* Minimal Layout
+* Professional Layout
+* Responsive Design
+
+### 👀 Live Preview
+
+* Real-time resume updates
+
+### 📄 Export
+
+* Download resume as PDF
 
 ---
 
-## ⚙️ Installation & Setup  
+## 🛠️ Tech Stack
 
-### 1️⃣ Clone the Repository  
+### Frontend
+
+* React.js
+* Vite
+* Tailwind CSS
+* React Router
+
+### Tools
+
+* npm
+* Git & GitHub
+* VS Code
+
+---
+
+## ⚙️ Setup
+
+### Clone Repository
+
 ```bash
-git clone https://github.com/AdithyaTB/Resume-Builder.git
+git clone https://github.com/SanthoshSankar-dev/Resume-Builder.git
 cd Resume-Builder
 ```
 
-### 2️⃣ Install Dependencies  
+### Install Dependencies
+
 ```bash
 npm install
 ```
 
-### 3️⃣ Run the Application  
+### Run Project
+
 ```bash
 npm run dev
 ```
 
-📍 **Open:** [http://localhost:5173](http://localhost:5173)
+Open:
+
+```text
+http://localhost:5173
+```
 
 ---
 
-## 📦 Available Scripts  
+## 🧪 Learning Outcomes
 
-| Command          | Purpose                     |
-|------------------|-----------------------------|
-| `npm install`    | Install dependencies        |
-| `npm run dev`    | Start development server    |
-| `npm run build`  | Build for production        |
-| `npm run preview`| Preview production build    |
+* React Component Structure
+* Responsive Web Design
+* Frontend Project Organization
+* Deployment Basics
 
 ---
 
-## 🧩 How the App Works  
+## 👨‍💻 Maintained By
 
-1️⃣ **User enters resume details through form**  
-2️⃣ **Resume preview updates in real time**  
-3️⃣ **User selects a resume template**  
-4️⃣ **Resume is exported as a PDF**  
+Santhosh
 
-✔ Simple | ✔ Fast | ✔ Effective  
+Academic submission and portfolio project.
 
----
+Project maintained and customized for academic and portfolio purposes with permission from original contributor.
 
-## 📸 Screenshots *(Add These for Extra Impact)*  
+GitHub:
+https://github.com/SanthoshSankar-dev
 
-📌 Home Page  
-📌 Resume Form  
-📌 Live Preview  
-📌 PDF Download Output  
-
-*(Screenshots dramatically increase recruiter interest!)*
+LinkedIn:
+(Add your LinkedIn profile link)
 
 ---
 
-## 🧪 Learning Outcomes  
+## 📌 Notes
 
-Through this project, I gained hands-on experience in:  
-
-- React component architecture  
-- State management  
-- Responsive UI design  
-- PDF generation in web apps  
-- Real-world project structuring  
-- Clean code & reusability  
+This repository is maintained for learning, academic submission, and portfolio purposes.
 
 ---
 
-## 🏆 Use Cases  
+## ⭐ Support
 
-🎓 College Students  
-💼 Job Seekers  
-🚀 Freshers  
-📑 Placement Preparation  
-🧑‍💻 Portfolio Resume Creation  
+If you found this project helpful:
 
----
-
-## 🔮 Planned Enhancements  
-
-🔐 Login & user profiles  
-🤖 AI-powered resume improvement  
-📊 ATS keyword optimization  
-✉ Cover letter generator  
-☁ Cloud resume storage  
-🌗 Dark mode  
-
----
-
-## 👨‍💻 Author  
-
-**T B Adithya**  
-
-🎓 B.E Student | Full Stack Developer  
-💻 Passionate about building real-world applications  
-🚀 Exploring MERN, AI & System Design  
-
-🔗 **GitHub:** [https://github.com/AdithyaTB](https://github.com/AdithyaTB)  
-🔗 **LinkedIn:** *(Add your LinkedIn link here)*  
-
----
-
-## ⭐ Support & Feedback  
-
-If you found this project helpful:  
-
-🌟 **Star this repository**  
-🍴 **Fork it**  
-📢 **Share it**  
-
-Your support motivates me to build more awesome projects 🚀  
-
----
-
-## 📜 License  
-
-This project is open-source and available under the **MIT License**.
+⭐ Star this repository
+🍴 Fork it
+📢 Share it
