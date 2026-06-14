@@ -8,7 +8,7 @@ A modern and responsive Resume Builder web application that helps users create p
 https://github.com/SanthoshSankar-dev/Resume-Builder
 
 🌐 Live Demo:
-[[(Add your Vercel deployment link here)]([https://resume-builder-2afmrgh9e-santhoshsankar-devs-projects.vercel.app/](https://resume-builder-roan-ten.vercel.app/))]
+https://resume-builder-roan-ten.vercel.app/
 
 ---
 
@@ -121,8 +121,6 @@ Project maintained and customized for academic and portfolio purposes with permi
 GitHub:
 https://github.com/SanthoshSankar-dev
 
-LinkedIn:
-(Add your LinkedIn profile link)
 
 ---
 
